@@ -31,7 +31,7 @@ In addition to the categorized links, I will update the "Daily Reads" section re
 
 06/03/2023
 - [how-figma-scaled-to-multiple-databases](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/) <br>
-06/09/2023 <br>
+- 06/09/2023 <br>
 - [kaltura-tech-moving-from-redshift-based-architecture-to-databricks-delta-lake](https://medium.com/kaltura-tech/moving-from-redshift-based-architecture-to-databricks-delta-lake-7a17be6449d7)
 
 ## Contributing
