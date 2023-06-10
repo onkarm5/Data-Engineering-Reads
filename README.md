@@ -29,9 +29,9 @@ You can navigate through the categories by exploring the respective folders in t
 ## Daily Reads
 In addition to the categorized links, I will update the "Daily Reads" section regularly whenever I read any blog or come across anything interesting. This ensures that I have access to fresh and engaging content, helping me stay up to date with the latest trends and insights in the field.
 
--06/03/2023
-- [how-figma-scaled-to-multiple-databases](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
--06/09/2023
+06/03/2023
+- [how-figma-scaled-to-multiple-databases](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/) <br>
+06/09/2023 <br>
 - [kaltura-tech-moving-from-redshift-based-architecture-to-databricks-delta-lake](https://medium.com/kaltura-tech/moving-from-redshift-based-architecture-to-databricks-delta-lake-7a17be6449d7)
 
 ## Contributing
