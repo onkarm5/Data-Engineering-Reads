@@ -30,11 +30,11 @@ You can navigate through the categories by exploring the respective folders in t
 In addition to the categorized links, I will update the "Daily Reads" section regularly whenever I read any blog or come across anything interesting. This ensures that I have access to fresh and engaging content, helping me stay up to date with the latest trends and insights in the field.
 
 06/03/2023<br>
-- [how-figma-scaled-to-multiple-databases](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
+- [how-figma-scaled-to-multiple-databases](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)<br>
 06/09/2023<br>
-- [kaltura-tech-moving-from-redshift-based-architecture-to-databricks-delta-lake](https://medium.com/kaltura-tech/moving-from-redshift-based-architecture-to-databricks-delta-lake-7a17be6449d7)
+- [kaltura-tech-moving-from-redshift-based-architecture-to-databricks-delta-lake](https://medium.com/kaltura-tech/moving-from-redshift-based-architecture-to-databricks-delta-lake-7a17be6449d7)<br>
 06/10/2023<br>
-- [parquet-best-practices-discover-your-data-without-loading-them](https://towardsdatascience.com/parquet-best-practices-discover-your-data-without-loading-them-f854c57a45b6)
+- [parquet-best-practices-discover-your-data-without-loading-them](https://towardsdatascience.com/parquet-best-practices-discover-your-data-without-loading-them-f854c57a45b6)<br>
 
 ## Contributing
 Contributions to this repository are welcome! If you come across any valuable articles, blogs, or resources related to data engineering that you would like to share, please follow these steps:
