@@ -31,9 +31,10 @@ In addition to the categorized links, I will update the "Daily Reads" section re
 
 06/03/2023<br>
 - [how-figma-scaled-to-multiple-databases](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
-
 06/09/2023<br>
 - [kaltura-tech-moving-from-redshift-based-architecture-to-databricks-delta-lake](https://medium.com/kaltura-tech/moving-from-redshift-based-architecture-to-databricks-delta-lake-7a17be6449d7)
+06/10/2023<br>
+- [parquet-best-practices-discover-your-data-without-loading-them](https://towardsdatascience.com/parquet-best-practices-discover-your-data-without-loading-them-f854c57a45b6)
 
 ## Contributing
 Contributions to this repository are welcome! If you come across any valuable articles, blogs, or resources related to data engineering that you would like to share, please follow these steps:
