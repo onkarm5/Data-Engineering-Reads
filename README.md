@@ -51,4 +51,4 @@ Contributions to this repository are welcome! If you come across any valuable ar
 The content of this repository is licensed under [MIT License](LICENSE.md). Please note that the content provided here is subject to copyright, and proper attribution is required if you use or distribute it.
 
 ## Contact Information
-If you have any questions, suggestions, or feedback regarding this repository, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com). I'd be happy to hear from you and engage in data engineering discussions!
+If you have any questions, suggestions, or feedback regarding this repository, feel free to reach out to me at [your-email@example.com](mailto:onkar.muttemwar@csu.fullerton.edu). I'd be happy to hear from you and engage in data engineering discussions!
